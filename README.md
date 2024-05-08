@@ -1,5 +1,7 @@
 # Rician noise estimation for 3D Magnetic Resonance Images based on Benford's Law
 
+This repository contains the source code of the paper Rician noise estimation for 3D Magnetic Resonance Images based on Benford's Law (URL doi paper https://doi.org/10.1007/978-3-030-87231-1_33.
+
 This project consist of 3 directories:
 - input: it contains 2 3D-MRI brain images form the NKI-RS repository.
 - output: the folder where the results will have save it.
